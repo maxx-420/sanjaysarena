@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Maxx
+- 👋 Hi, I’m Sanjay
 - 👀 I’m interested in web dev
 - 🌱 I’m currently learning three.js
 - 📫 How to reach me ...
