@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Sanjay
 - 👀 I’m interested in web dev
 - 🌱 I’m currently learning three.js
-- 📫 How to reach me ...
+- 📫 debsanjay95@yahoo.com
 
 <!---
 sanjaysarena/sanjaysarena is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
